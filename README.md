@@ -59,12 +59,13 @@ I'm currently pursuing an intensive 5-year Double Degree in Physics &amp; Mathem
 <p align="center">
   <img src="https://ghchart.rshah.org/58a6ff/ilakyyyy" alt="ilakyyyy's 365-day Github chart" />
 </p>
-
+<!--
 ### 💭 Dev Quote
-
+-->
+<!--
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
-
+-->
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/ilakyyyy">ilakyyyy</a></i></p>
